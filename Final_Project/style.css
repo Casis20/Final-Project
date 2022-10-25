@@ -1,0 +1,119 @@
+*
+{
+    margin: 0; 
+    padding: 0;  
+}
+body 
+
+{ 
+    font-family: system-ui, -apple-system;
+     
+}
+
+#nav-bar
+
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar 
+{
+    background-color: black ;
+    padding:0 !important; 
+}
+
+.navbar-brand img
+{
+    height: 40px;
+    padding-left: 2px;
+}
+
+
+.navbar li 
+{ 
+    padding: 0 10px;
+}
+
+
+.navbar li a
+{ 
+    color: white !important;
+    font-weight: 600;
+}
+.navbar-brand
+{
+    color: white !important;
+    font-weight: 600;
+
+}
+
+#banner
+{
+    background-image: linear-gradient(to right,rgb(171, 171, 171),rgb(132, 171, 171));
+    color: #ffff;
+    padding-top: 2%;
+}
+.promo-title
+{
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 50px; 
+
+}
+.play-btn
+{
+    width: 50px;
+}
+
+#banner a 
+{
+    color: #ffff;
+    text-decoration: none;
+}
+
+.center-align 
+
+{
+    align-items: center;
+}
+
+.bottom_banner
+{
+    /* width: 1263px;
+    height: 400px; */
+    width: 100%;
+    top: -2px;
+    
+}
+
+.insta {
+    position: absolute;
+    bottom: -40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.insta-logo
+
+{
+    position: absolute;
+    bottom: -40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+   
+
+
+
+}
+
+    
+
+
+
+
+
+
+

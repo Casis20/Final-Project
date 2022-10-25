@@ -1,0 +1,17 @@
+
+moving nav-bar to right: 
+https://stackoverflow.com/questions/49022773/ml-auto-is-not-pushing-navbar-links-to-the-right
+
+bootstrap: 
+https://getbootstrap.com/
+
+Z-index def: 
+https://www.freecodecamp.org/news/z-index-in-css-what-it-is-and-what-it-does/#:~:text=Z%20Index%20(%20z%2Dindex%20),%2C%20or%20position%3Afixed%20).
+
+
+gradient color: 
+https://cssgradient.io/
+
+tutorial on bootstrap, css, html: creating webpage: 
+https://www.youtube.com/watch?v=v0IgI8vYD_o&t=433s&ab_channel=EasyTutorials
+
