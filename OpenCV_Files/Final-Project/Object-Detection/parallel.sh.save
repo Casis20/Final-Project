@@ -1,0 +1,29 @@
+#!/bin/bash
+
+
+while true; do
+
+python3 ultrasonic_distance.py
+
+sleep 10
+
+break
+#	read input
+#	input_2=${input}
+
+#	if [[$input_2 = "q"]] || [[$input_2 = "Q"]]
+#
+#		then break
+#	fi
+
+
+done
+
+
+
+
+
+
+
+
+
